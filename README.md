@@ -1,4 +1,4 @@
-# Book Management Frontend
+# Book Management
 
 Este é o frontend de um sistema de gerenciamento de livros. Ele permite adicionar, editar, e excluir livros utilizando uma API RESTful no backend.
 
